@@ -1,6 +1,6 @@
 {
   "name": "aglio-theme-olio-patched",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Default theme for the Aglio API Blueprint renderer",
   "main": "lib/main.js",
   "repository": {
@@ -25,14 +25,14 @@
   "dependencies": {
     "coffeescript": "1",
     "highlight.js": "8",
-    "pug": "2",
-    "less": "2",
+    "less": "3",
     "markdown-it": "4",
     "markdown-it-anchor": "2",
     "markdown-it-checkbox": "1",
     "markdown-it-container": "1",
     "markdown-it-emoji": "1",
     "moment": "2",
+    "pug": "2",
     "stylus": "0.54"
   }
 }
